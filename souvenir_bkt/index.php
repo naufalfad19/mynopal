@@ -4389,7 +4389,7 @@ aktifkanRadiuss4();
             </div>
 
             <!--logo start-->
-            <a class="logo" ><font face="Courier New">WebGis Souvenir (19 1811522021 Naufal Fadilan)</font> <img src=""></a>
+            <a class="logo" ><font face="Courier New">WebGis Souvenir (21 1811522021 Naufal Fadilan)</font> <img src=""></a>
             <!--logo end-->
             <div class="nav notify-row" id="top_menu">
                 <!--  notification start -->
