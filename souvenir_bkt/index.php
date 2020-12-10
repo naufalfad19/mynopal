@@ -11,7 +11,7 @@ require("../connect.php");
     <meta name="description" content="">
     <meta name="author" content="Dashboard">
     <meta name="keyword" content="Dashboard, Bootstrap, Admin, Template, Theme, Responsive, Fluid, Retina">
-    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4F.0/css/font-awesome.min.css">
     <title>Bukittinggi's Souvenir</title>
     <script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDgpfxdQ0Ep_nieNjV64u4yXWeSFHAT4BE&sensor=true"></script>
 
@@ -178,7 +178,7 @@ require("../connect.php");
 
 <script type="text/javascript">
 
-var server = "http://localhost/souvenir_postgre/souvenir_bkt/";
+var server = "https://souvenirmy.herokuapp.com/souvenir_bkt/";
 var map;
 var markersDua = [];
 var koordinat = 'null'
